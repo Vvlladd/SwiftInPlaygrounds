@@ -1,2 +1,2 @@
 # SwiftInPlaygrounds
-.playground files with swift subjects
+.playground files with swift small topics
